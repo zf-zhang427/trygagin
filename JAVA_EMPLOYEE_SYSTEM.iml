@@ -6,6 +6,6 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="com.whu_zzf" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="sourceFolder" forTests="false" /> 1
   </component>
 </module>
